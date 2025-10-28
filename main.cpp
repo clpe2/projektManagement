@@ -9,6 +9,8 @@ int main (){
 
 	std::cout << "Hello World on Branch A added" << std::endl;
 
+	std::cout << "Changed to remote repository" << std::endl;
+
 	return 0;
 
 }
