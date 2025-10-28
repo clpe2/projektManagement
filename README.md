@@ -1,0 +1,2 @@
+# projektManagement
+Seminar projektManagement
